@@ -1,0 +1,13 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>l00ki-overlay</name>
+    <description>My personal overlay for computational chemistry.</description>
+    <homepage>https://github.com/schreluk/l00ki-overlay/</homepage>
+    <owner>
+      <email>lukas@lukasschreder.xyz</email>
+      <name>Lukas Schreder</name>
+    </owner>
+    <source type="git">https://github.com/schreluk/l00ki-overlay/</source>
+    <feed>https://github.com/schreluk/l00ki-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
